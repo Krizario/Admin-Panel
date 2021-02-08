@@ -1,2 +1,2 @@
-# larastart
-start admin for laravel
+# admin-panel
+Backoffice using Laravel 5
